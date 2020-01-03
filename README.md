@@ -5,6 +5,7 @@
 This application features the ability to retrieve information about TV shows from the internet. Currently it shows recently updated shows, and in the future will features the abilities to search for shows and display their info such as episode information, cast, etc.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71704286-ad0ee400-2d96-11ea-8d4d-4942c0f9d40b.png)
 
 ## Application Compiling
 
